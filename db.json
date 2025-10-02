@@ -12,12 +12,12 @@
     { "id": 10, "name": "Татьяна Белова", "phone": "79001234510" }
   ],
   "animals": [
-    { "id": 1, "ownerId": 2, "name": "Барсик", "type": "Кошка", "age": 3 },
-    { "id": 2, "ownerId": 2, "name": "Мурка", "type": "Кошка", "age": 5 },
-    { "id": 3, "ownerId": 3, "name": "Бобик", "type": "Собака", "age": 4 },
-    { "id": 4, "ownerId": 4, "name": "Кеша", "type": "Попугай", "age": 2 },
-    { "id": 5, "ownerId": 5, "name": "Шарик", "type": "Собака", "age": 7 },
-    { "id": 6, "ownerId": 8, "name": "Снежок", "type": "Кролик", "age": 1 }
+    { "id": 1, "clientId": 2, "name": "Барсик", "type": "Кошка", "age": 3 },
+    { "id": 2, "clientId": 2, "name": "Мурка", "type": "Кошка", "age": 5 },
+    { "id": 3, "clientId": 3, "name": "Бобик", "type": "Собака", "age": 4 },
+    { "id": 4, "clientId": 4, "name": "Кеша", "type": "Попугай", "age": 2 },
+    { "id": 5, "clientId": 5, "name": "Шарик", "type": "Собака", "age": 7 },
+    { "id": 6, "clientId": 8, "name": "Снежок", "type": "Кролик", "age": 1 }
   ],
   "records": [
     {
