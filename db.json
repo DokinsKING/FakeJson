@@ -19,6 +19,108 @@
     { "id": 5, "clientId": 5, "name": "Шарик", "type": "Собака", "age": 7 },
     { "id": 6, "clientId": 8, "name": "Снежок", "type": "Кролик", "age": 1 }
   ],
+  "addresses": [
+  {
+    "id": 1,
+    "city": "Норильск",
+    "street": "Красных Героев",
+    "building": 12,
+    "entrance": 1,
+    "intercom": "101",
+    "appsNumber": 45,
+    "clientId": 1
+  },
+  {
+    "id": 2,
+    "city": "Оганер",
+    "street": "Лесная",
+    "building": 5,
+    "entrance": 2,
+    "intercom": "202",
+    "appsNumber": 12,
+    "clientId": 2
+  },
+  {
+    "id": 3,
+    "city": "Талнах",
+    "street": "Солнечная",
+    "building": 8,
+    "entrance": 1,
+    "intercom": "303",
+    "appsNumber": 23,
+    "clientId": 3
+  },
+  {
+    "id": 4,
+    "city": "Дудинка",
+    "street": "Речной",
+    "building": 15,
+    "entrance": 3,
+    "intercom": "404",
+    "appsNumber": 5,
+    "clientId": 4
+  },
+  {
+    "id": 5,
+    "city": "Норильск",
+    "street": "Лесная",
+    "building": 3,
+    "entrance": 2,
+    "intercom": "505",
+    "appsNumber": 8,
+    "clientId": 5
+  },
+  {
+    "id": 6,
+    "city": "Оганер",
+    "street": "Центральная",
+    "building": 7,
+    "entrance": 1,
+    "intercom": "606",
+    "appsNumber": 19,
+    "clientId": 6
+  },
+  {
+    "id": 7,
+    "city": "Талнах",
+    "street": "Мира",
+    "building": 10,
+    "entrance": 1,
+    "intercom": "707",
+    "appsNumber": 3,
+    "clientId": 7
+  },
+  {
+    "id": 8,
+    "city": "Дудинка",
+    "street": "Набережная",
+    "building": 2,
+    "entrance": 2,
+    "intercom": "808",
+    "appsNumber": 14,
+    "clientId": 8
+  },
+  {
+    "id": 9,
+    "city": "Норильск",
+    "street": "Зеленая",
+    "building": 6,
+    "entrance": 1,
+    "intercom": "909",
+    "appsNumber": 7,
+    "clientId": 9
+  },
+  {
+    "id": 10,
+    "city": "Оганер",
+    "street": "Луговая",
+    "building": 9,
+    "entrance": 2,
+    "intercom": "010",
+    "appsNumber": 22,
+    "clientId": 10
+  }
+],
   "records": [
     {
       "id": 1,
