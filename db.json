@@ -12,7 +12,7 @@
     { "id": 10, "name": "Татьяна Белова", "phone": "79001234510" }
   ],
   "animals": [
-    { "id": 1, "clientId": 2, "name": "Барсик", "type": "Кошка", "age": 3 },
+    { "id": 1, "clientId": 2, "name": "Барсик", "type": "Кошка", "age": 3 ,"Behavior": "макрота", "Diseases": "какает халапенья", "Comments": "Нам гг"},
     { "id": 2, "clientId": 2, "name": "Мурка", "type": "Кошка", "age": 5 },
     { "id": 3, "clientId": 3, "name": "Бобик", "type": "Собака", "age": 4 },
     { "id": 4, "clientId": 4, "name": "Кеша", "type": "Попугай", "age": 2 },
